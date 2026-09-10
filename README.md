@@ -4,3 +4,5 @@ adicionado o arquivo ipynb
 
 realizado analise e tratamento dos dados
 
+respondendo as perguntas iniciais
+
