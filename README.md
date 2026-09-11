@@ -6,3 +6,8 @@ realizado analise e tratamento dos dados
 
 respondendo as perguntas iniciais
 
+
+feito analise de dados para gerar conclusões finais
+
+adicionado tres analises e conclusões finais.
+
