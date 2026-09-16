@@ -11,3 +11,8 @@ feito analise de dados para gerar conclusões finais
 
 adicionado tres analises e conclusões finais.
 
+tratamento de dados nulos nas colunas principais.
+
+criadas colunas de faixa de gravidade e letalidade.
+
+adicionada visualização gráfica de ocorrências por gravidade.
