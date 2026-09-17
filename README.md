@@ -13,7 +13,7 @@ Os dados vêm do **DATATRAN**, disponibilizado pelo Ministério da Infraestrutur
 Federal (PRF), reunindo os registros de acidentes de trânsito em rodovias federais brasileiras.
 
 - **Arquivo**: `datatran2026.csv`
-- **Recorte temporal**: todos os acidentes registrados em 2026
+- **Recorte temporal**: todos os acidentes registrados em janeiro a julho de 2026
 - **Tamanho**: 42.322 registros, 30 colunas (um registro por acidente)
 
 Principais colunas:
@@ -31,7 +31,7 @@ Principais colunas:
 2. Quais dias da semana têm mais ocorrências?
 3. Quais estados e municípios são mais críticos?
 4. Quais tipos de acidente são mais frequentes?
-5. Qual a gravidade dos acidentes (mortos/feridos) ao longo do ano?
+5. Qual a gravidade dos acidentes (mortos/feridos) ao longo do período investigado?
 
 ## O que foi feito
 
